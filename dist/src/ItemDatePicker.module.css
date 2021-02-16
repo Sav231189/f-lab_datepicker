@@ -1,0 +1,27 @@
+.ItemDatePicker {
+  margin: 5px;
+  width: 70%;
+  height: 70%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  font-family: sans-serif;
+  color: blue;
+}
+.ItemDatePicker::selection {
+  background-color: transparent;
+}
+.ItemDatePicker.active {
+  background-color: blue;
+  color: white;
+}
+.ItemDatePicker:hover {
+  border: darkblue solid 1px;
+}
+
+.noActive {
+  opacity: 0.3;
+}
+
+/*# sourceMappingURL=ItemDatePicker.module.css.map */

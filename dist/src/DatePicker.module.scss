@@ -1,0 +1,17 @@
+.DatePicker {
+  margin: 0 auto;
+  width: 300px;
+  height: 300px;
+  border-radius: 4px;
+  box-shadow: 0 0 5px 0 #0000ff47;
+  border: rgba(0, 0, 255, 0.18) solid 2px;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 50px 1fr;
+}
+
+.info {
+  position: absolute;
+  left: 0;
+  bottom: 30%;
+}

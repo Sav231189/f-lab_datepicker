@@ -1,0 +1,276 @@
+._92VyF {
+  margin: 0 auto;
+  width: 300px;
+  height: 300px;
+  border-radius: 4px;
+  box-shadow: 0 0 5px 0 #0000ff47;
+  border: rgba(0, 0, 255, 0.18) solid 2px;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 50px 1fr; }
+
+._RnhwK {
+  position: absolute;
+  left: 0;
+  bottom: 30%; }
+
+._3TWKW {
+  height: 100%;
+  border-bottom: rgba(0, 0, 255, 0.18) solid 2px;
+  display: grid;
+  grid-template-columns: 1fr 85px;
+  font-family: sans-serif; }
+  ._3TWKW ._371Oj {
+    border-right: rgba(0, 0, 255, 0.18) solid 2px;
+    font-family: sans-serif;
+    font-weight: bold;
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    align-items: center; }
+    ._3TWKW ._371Oj span {
+      padding: 5px 12px;
+      height: 100%;
+      display: flex;
+      text-align: center;
+      justify-content: center;
+      align-items: center;
+      cursor: pointer; }
+  ._3TWKW svg {
+    fill: #3737d0;
+    cursor: pointer; }
+    ._3TWKW svg path {
+      pointer-events: none; }
+  ._3TWKW ._3jTqF {
+    position: relative;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    color: blue; }
+    ._3TWKW ._3jTqF ._2HU-a {
+      padding: 5px 10px; }
+    ._3TWKW ._3jTqF svg._25-Ac {
+      transform-origin: 50% 44%;
+      transform: rotate(180deg); }
+    ._3TWKW ._3jTqF ._2z8a6 {
+      padding-top: 8px;
+      position: absolute;
+      bottom: 0;
+      top: 50px;
+      height: 150px;
+      width: 85px;
+      background-color: white;
+      border: rgba(0, 0, 255, 0.18) solid 2px;
+      border-right: transparent solid 2px;
+      display: grid;
+      grid-template-columns: 1fr;
+      grid-auto-rows: 1fr;
+      overflow-y: auto;
+      cursor: pointer; }
+      ._3TWKW ._3jTqF ._2z8a6 ._utQEW {
+        width: 100%;
+        text-align: center;
+        padding: 7px 0; }
+        ._3TWKW ._3jTqF ._2z8a6 ._utQEW::-moz-selection {
+          background-color: transparent; }
+        ._3TWKW ._3jTqF ._2z8a6 ._utQEW::selection {
+          background-color: transparent; }
+        ._3TWKW ._3jTqF ._2z8a6 ._utQEW:hover {
+          background-color: blue;
+          color: white; }
+
+._3gKjO {
+  display: grid;
+  grid-template-rows: 40px 1fr; }
+  ._3gKjO ._2NjAB {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    justify-items: center;
+    align-items: center; }
+    ._3gKjO ._2NjAB span {
+      font-family: sans-serif;
+      font-weight: bold;
+      font-size: 14px; }
+  ._3gKjO ._1dTlw {
+    height: 100%;
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    grid-template-rows: repeat(5, 1fr);
+    grid-auto-rows: 1fr;
+    justify-items: center;
+    align-items: center; }
+
+._jGLvw {
+  margin: 5px;
+  width: 70%;
+  height: 70%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  font-family: sans-serif;
+  color: blue; }
+  ._jGLvw::-moz-selection {
+    background-color: transparent; }
+  ._jGLvw::selection {
+    background-color: transparent; }
+  ._jGLvw._V13qs {
+    background-color: blue;
+    color: white; }
+  ._jGLvw:hover {
+    border: darkblue solid 1px; }
+
+._pVL4j {
+  opacity: .3; }
+
+._2GYu_ {
+  margin: 0 auto;
+  width: 300px;
+  height: 300px;
+  border-radius: 4px;
+  box-shadow: 0 0 5px 0 #0000ff47;
+  border: rgba(0, 0, 255, 0.18) solid 2px;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 50px 1fr;
+}
+
+._1b60G {
+  position: absolute;
+  left: 0;
+  bottom: 30%;
+}
+
+._3DRP1 {
+  height: 100%;
+  border-bottom: rgba(0, 0, 255, 0.18) solid 2px;
+  display: grid;
+  grid-template-columns: 1fr 85px;
+  font-family: sans-serif;
+}
+._3DRP1 ._3KZIm {
+  border-right: rgba(0, 0, 255, 0.18) solid 2px;
+  font-family: sans-serif;
+  font-weight: bold;
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  align-items: center;
+}
+._3DRP1 ._3KZIm span {
+  padding: 5px 12px;
+  height: 100%;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+._3DRP1 svg {
+  fill: #3737d0;
+  cursor: pointer;
+}
+._3DRP1 svg path {
+  pointer-events: none;
+}
+._3DRP1 ._3zrQr {
+  position: relative;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  color: blue;
+}
+._3DRP1 ._3zrQr ._1fz5n {
+  padding: 5px 10px;
+}
+._3DRP1 ._3zrQr svg._3nteo {
+  transform-origin: 50% 44%;
+  transform: rotate(180deg);
+}
+._3DRP1 ._3zrQr ._2jFtN {
+  padding-top: 8px;
+  position: absolute;
+  bottom: 0;
+  top: 50px;
+  height: 150px;
+  width: 85px;
+  background-color: white;
+  border: rgba(0, 0, 255, 0.18) solid 2px;
+  border-right: transparent solid 2px;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-auto-rows: 1fr;
+  overflow-y: auto;
+  cursor: pointer;
+}
+._3DRP1 ._3zrQr ._2jFtN ._2A2SQ {
+  width: 100%;
+  text-align: center;
+  padding: 7px 0;
+}
+._3DRP1 ._3zrQr ._2jFtN ._2A2SQ::-moz-selection {
+  background-color: transparent;
+}
+._3DRP1 ._3zrQr ._2jFtN ._2A2SQ::selection {
+  background-color: transparent;
+}
+._3DRP1 ._3zrQr ._2jFtN ._2A2SQ:hover {
+  background-color: blue;
+  color: white;
+}
+
+._1J3Vi {
+  margin: 5px;
+  width: 70%;
+  height: 70%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  font-family: sans-serif;
+  color: blue;
+}
+._1J3Vi::-moz-selection {
+  background-color: transparent;
+}
+._1J3Vi::selection {
+  background-color: transparent;
+}
+._1J3Vi._2o9QZ {
+  background-color: blue;
+  color: white;
+}
+._1J3Vi:hover {
+  border: darkblue solid 1px;
+}
+
+._1okCB {
+  opacity: 0.3;
+}
+
+._UzDY_ {
+  display: grid;
+  grid-template-rows: 40px 1fr;
+}
+._UzDY_ ._28FCi {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  justify-items: center;
+  align-items: center;
+}
+._UzDY_ ._28FCi span {
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 14px;
+}
+._UzDY_ ._epKjz {
+  height: 100%;
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  grid-template-rows: repeat(5, 1fr);
+  grid-auto-rows: 1fr;
+  justify-items: center;
+  align-items: center;
+}
