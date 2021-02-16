@@ -10,7 +10,7 @@
 
 ##
 ##### imports: 
-`import Pagination from "f-lab_datepicker";`
+`import DatePicker from "f-lab_datepicker";`
 
  `import 'f-lab_datepicker/dist/index.css'`
 
